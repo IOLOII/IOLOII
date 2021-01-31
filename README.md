@@ -1,7 +1,8 @@
-[![IOLOII's GitHub stats](https://github-readme-stats.vercel.app/api?username=IOLOII&count_private=true&theme=dracula)]
+![IOLOII's GitHub stats](https://github-readme-stats.vercel.app/api?username=IOLOII&count_private=true&theme=dracula)
 <!--(https://github.com/anuraghazra/github-readme-stats)  -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IOLOII&layout=compact)]
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IOLOII&layout=compact)
+-->
 <!--(https://github.com/anuraghazra/github-readme-stats)-->
 <!--
 **IOLOII/IOLOII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
