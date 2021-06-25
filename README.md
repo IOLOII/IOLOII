@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=IOLOII)
+![](https://komarev.com/ghpvc/?username=IOLOII&color=blueviolet)
 
 ![IOLOII's GitHub stats](https://github-readme-stats.vercel.app/api?username=IOLOII&show_icons=true)
 <!--events start -->
