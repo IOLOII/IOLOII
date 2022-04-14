@@ -11,7 +11,8 @@
 
 <!-- ![IOLOII's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=IOLOII&show_icons=true&count_private=true&theme=gotham) -->
 
-![IOLOII's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IOLOII&layout=compact&hide_border=true&langs_count=10)
+<!-- ![IOLOII's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IOLOII&layout=compact&hide_border=true&langs_count=10) -->
 
 
 <https://skyline.github.com/IOLOII/2021>
+<https://skyline.github.com/IOLOII/2022>
