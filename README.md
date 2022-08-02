@@ -13,6 +13,7 @@
 
 <!-- ![IOLOII's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IOLOII&layout=compact&hide_border=true&langs_count=10) -->
 
+![snake gif](https://raw.githubusercontent.com/IOLOII/IOLOII/output/github-contribution-grid-snake.svg)
 
 <https://skyline.github.com/IOLOII/2021>  
 
