@@ -6,9 +6,9 @@
 <!-- ![IOLOII's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=IOLOII&show_icons=true&count_private=true&theme=gotham) -->
 <!-- ![IOLOII's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IOLOII&layout=compact&hide_border=true&langs_count=10) -->
 <!-- ![snake gif](https://raw.githubusercontent.com/IOLOII/IOLOII/output/github-contribution-grid-snake.svg) -->
-<!-- ![GitHub Snake Light](https://raw.githubusercontent.com/IOLOII/IOLOII/output/github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://raw.githubusercontent.com/IOLOII/IOLOII/output/github-snake-dark.svg#gh-dark-mode-only) -->
-![Snake](https://raw.githubusercontent.com/IOLOII/IOLOII/output/ocean.gif)
+![GitHub Snake Light](https://raw.githubusercontent.com/IOLOII/IOLOII/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://raw.githubusercontent.com/IOLOII/IOLOII/output/github-snake-dark.svg#gh-dark-mode-only)
+<!-- ![Snake](https://raw.githubusercontent.com/IOLOII/IOLOII/output/ocean.gif) -->
 
 <https://skyline.github.com/IOLOII/2021>  
 <https://skyline.github.com/IOLOII/2022>
