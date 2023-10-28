@@ -1,6 +1,6 @@
 <!-- ![snake gif](https://raw.githubusercontent.com/IOLOII/IOLOII/output/github-contribution-grid-snake.svg) -->
-![GitHub Snake Light](https://raw.githubusercontent.com/IOLOII/IOLOII/output/github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://raw.githubusercontent.com/IOLOII/IOLOII/output/github-snake-dark.svg#gh-dark-mode-only)
+<!-- ![GitHub Snake Light](https://raw.githubusercontent.com/IOLOII/IOLOII/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://raw.githubusercontent.com/IOLOII/IOLOII/output/github-snake-dark.svg#gh-dark-mode-only) -->
 <!-- ![Snake](https://raw.githubusercontent.com/IOLOII/IOLOII/output/ocean.gif) -->
 <!-- ![](https://komarev.com/ghpvc/?username=IOLOII&color=blueviolet)    -->
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  `Hi !`
@@ -10,8 +10,6 @@
 <!-- ![IOLOII's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=IOLOII&show_icons=true&count_private=true&theme=gotham) -->
 <!-- ![IOLOII's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IOLOII&layout=compact&hide_border=true&langs_count=10) -->
 
-* [IOLOII skyline 2023](https://skyline.github.com/IOLOII/2023)
+<!-- * [IOLOII skyline 2023](https://skyline.github.com/IOLOII/2023)
 * [IOLOII skyline 2022](https://skyline.github.com/IOLOII/2022)
-* [IOLOII skyline 2021](https://skyline.github.com/IOLOII/2021)
-
-
+* [IOLOII skyline 2021](https://skyline.github.com/IOLOII/2021) -->
