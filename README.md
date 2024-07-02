@@ -33,10 +33,12 @@
 
   tailwindcss  
 
-now focus on development vscode-extension & personal pro
+> Now focus on develop vscode-extension & personal pro
+
+
 
 extensions:
-### theme
+
   * ~~[IOLOII-Theme](https://marketplace.visualstudio.com/items?itemName=IOLOII.IOLOII)~~
   * [IOLOII-vscode-author-comment](https://marketplace.visualstudio.com/items?itemName=IOLOII.IOLOII-vscode-author-comment)  : A Tool To Generate Author Info
   * [Case Translation](https://marketplace.visualstudio.com/items?itemName=IOLOII.case-translation)  : 一键转换成常用大小驼峰等格式
