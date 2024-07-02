@@ -15,11 +15,13 @@
 * [IOLOII skyline 2021](https://skyline.github.com/IOLOII/2021) -->
 
 - [x]
-vue react js ts nodejs  
-vuetify element-ui   
-swift android uniapp cordova  
-echart vxetable  
-gaode-map baidu-map qgis cesium openlayers  
+vue react js ts nodejs
+sequelize jest vite webpack
+flutter swift android uniapp cordova  
+echart vxetable 
+vuetify element-ui vant-ui cube-ui vux-ui 
+gaode-map baidu-map qgis cesium openlayers mapbox
+
 - [ ] tailwindcss  
 
 now focus on development vscode-extension & personal pro
