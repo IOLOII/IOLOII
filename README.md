@@ -28,10 +28,14 @@
   
   gaode-map baidu-map qgis cesium openlayers mapbox 
 
+  tailwindcss  
 
 - [ ] :
 
-  tailwindcss  
+- [ ] doing:
+
+  Git status chart : An vscode extension which can view past total commit count, weekly、 monthly, etc.
+
 
 > Now focus on develop vscode-extension & personal pro
 
