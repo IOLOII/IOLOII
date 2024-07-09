@@ -14,7 +14,7 @@
 * [IOLOII skyline 2022](https://skyline.github.com/IOLOII/2022)
 * [IOLOII skyline 2021](https://skyline.github.com/IOLOII/2021) -->
 
-- [x]  :
+- [x] Skill :
   
   vue react js ts nodejs
   
@@ -30,9 +30,11 @@
 
   tailwindcss  
 
-- [ ] :
+- [ ] Learn & try:
 
-- [ ] doing:
+    
+
+- [ ] Doing:
 
   Git status chart : An vscode extension which can view past total commit count, weekly、 monthly, etc.
 
