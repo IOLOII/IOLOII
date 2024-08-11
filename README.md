@@ -14,6 +14,38 @@
 * [IOLOII skyline 2022](https://skyline.github.com/IOLOII/2022)
 * [IOLOII skyline 2021](https://skyline.github.com/IOLOII/2021) -->
 
+
+
+<!--   my-header-img -->
+<!-- ![](./src/header_.png)
+<a href="http://csyedu.top"><img src="./assets/head_logo.jpg" align="right" height="48" width="48" ></a> -->
+
+<!--   my-ticker -->    
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Steve;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Always+learning+new+things;)](https://git.io/typing-svg) -->
+
+<!--   my-skils -->
+
+|              |                                                          |
+| -------------------- | ------------------------------------------------------------ |
+| **Perfer**   | ![Typescript](https://img.shields.io/badge/-Typescript%20-2088FF?style=flat&logo=Typescript&logoColor=white),  ![VsCode](https://img.shields.io/badge/-VsCode%20-2088FF?style=flat&logo=VsCode&logoColor=white) |
+| **Git**          | [![Github Badge](https://img.shields.io/badge/-Github%20-2088FF?style=flat&logo=Github&logoColor=white)](https://github.com/IOLOII) |
+| **Main** |  ![Typescript](https://img.shields.io/badge/-Typescript%20-2088FF?style=flat&logo=Typescript&logoColor=white), ![React Badge](https://img.shields.io/badge/React.js-%2525233178C6?style=flat&logo=react&logoColor=%23ffffff&labelColor=%2327a2f0&color=%2327a2f0), ![Vue Badge](https://img.shields.io/badge/Vue.js-%234FC08D?style=flat&logo=vuedotjs&labelColor=%236d6d6d&color=%234FC08D), ![JavaScript](https://img.shields.io/badge/-JavaScript-%233fb27f?style=flat&logo=javascript&logoColor=%23F7DF1E&labelColor=%236d6d6d&color=%23F7DF1E),![Nodejs](https://img.shields.io/badge/-Nodejs%20-2088FF?style=flat&logo=Nodejs&logoColor=white) |
+
+<!--   GitHub stats graph -->
+
+
+
+
+
+
+
+  
+  <!-- <span>
+  <img height="195" align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IOLOII&theme=radical&layout=compact" />
+</span> -->
+
+
+
 - [x] Skill :
   
   vue react js ts nodejs
@@ -50,3 +82,9 @@ extensions:
   * [Case Translation](https://marketplace.visualstudio.com/items?itemName=IOLOII.case-translation)  : 一键转换成常用大小驼峰等格式
   * [Oh! Theme](https://marketplace.visualstudio.com/items?itemName=IOLOII.Oh-Theme) : Oh! Use This Theme! Yes! Yes! Yes!
   * [Oh! Git](https://marketplace.visualstudio.com/items?itemName=IOLOII.oh-git)  : Packed some usefull functional git extensions
+
+
+
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=IOLOII&show_icons=true&theme=radical" />
+</div>
