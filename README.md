@@ -47,7 +47,7 @@
 <!-- <h1 align="center">Hi 👋, I'm IOLOII</h1> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ioloii&label=Profile%20views&color=0e75b6&style=flat" alt="ioloii" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ioloii" alt="ioloii" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IOLOII&theme=light&column=3&margin-w=15&margin-h=15&no-bg=true" alt="ioloii" /></a> </p>
 
 - 🔭 I’m currently working on **git chart (vscode extension)**
 
